@@ -1,0 +1,35 @@
+🚀 Starting watchit extraction...
+📂 Script location: C:\Users\User\Desktop\Code\sandbox_work\app-20260820-111712
+📁 Creating application files...
+  ✅ Created package.json
+  ✅ Created app/layout.js
+  ✅ Created app/page.js
+  ✅ Created app/page.module.css
+  ✅ Created app/globals.css
+  ✅ Created app/components/SearchBar.js
+  ✅ Created app/components/SearchBar.module.css
+  ✅ Created app/components/ShowResults.js
+  ✅ Created app/components/ShowResults.module.css
+  ✅ Created app/components/EpisodeList.js
+  ✅ Created app/components/EpisodeList.module.css
+  ✅ Created app/api/search/route.js
+  ✅ Created app/api/episodes/route.js
+  ✅ Created public/manifest.json
+  ✅ Created public/icon-192.svg
+  ✅ Created public/icon-512.svg
+📦 Installing npm dependencies...
+
+added 23 packages, and audited 24 packages in 14s
+
+5 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+✅ npm install completed successfully
+📦 Creating watchit.zip...
+  Copying files to temp directory...
+  ✅ Copied app/
+  ✅ Copied package-lock.json
+  ✅ Copied package.json
+  ✅ Copied public/
+  ✅ Copied stderr.log

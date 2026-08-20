@@ -1,0 +1,17 @@
+{
+  "name": "watchit",
+  "version": "1.0.0",
+  "description": "AI-powered TV show search engine with season and episode capabilities",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
